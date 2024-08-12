@@ -1,0 +1,19 @@
+body{
+    background-color: #666;
+}
+li{
+    color: #fff;
+}
+
+.ingrediente-faltante{
+    color:red;
+}
+
+#ingrediente-secreto{
+    color:blue;
+}
+
+img[src = "dieguito.jpg"]{
+    width: 20%;
+}
+
